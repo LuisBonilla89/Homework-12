@@ -18,11 +18,7 @@
 
 The following link shows the app repository:
 
-- The URL of the GitHub repository
-
-- A video demonstrating the entirety of the app's functionality
-
----
+https://luisbonilla89.github.io/Homework-12/
 
 ## License
 

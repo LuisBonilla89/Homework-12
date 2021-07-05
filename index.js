@@ -20,9 +20,7 @@ connection.connect((err) => {
 //-----------------Menu Starting---------------------//
 
 async function startPrompt() {
-  console.log(
-    "***************************************************************\n EMPLOYEE MANAGEMENT SYSTEM! \n***************************************************************"
-  );
+  console.log("========EMPLOYEE MANAGEMENT SYSTEM======== 2021");
 
   const { choice } = await inquirer.prompt([
     {
