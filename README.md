@@ -18,7 +18,7 @@
 
 The following link shows the app repository:
 
-https://luisbonilla89.github.io/Homework-12/
+https://github.com/LuisBonilla89/Homework-12
 
 ## License
 
